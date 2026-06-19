@@ -1,3 +1,4 @@
+//[B계정의 conflict/B branch에서 추가함]
 //[A계정, conflict/A branch에서 추가]
 public class Board {
     private int    id;
